@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Backend Development, Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning driven applications <br>🌱 I’m currently learning NLP and Data Science<br>⚡ Fun fact<br> I love playing cricket and I am also an avid nature lover. 📃You can find my Resume [here](https://drive.google.com/file/d/1Q19yS264VKrJmvK64ODhGA-Fe41Ih62m/view?usp=drive_link)<br>🎓 Pre-final year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering
+🔭 I’m currently working on Backend Development, Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning driven applications <br>🌱 I’m currently learning NLP and Data Science<br>⚡ Fun fact I love playing cricket and I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1Q19yS264VKrJmvK64ODhGA-Fe41Ih62m/view?usp=drive_link)<br>🎓 Pre-final year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering
 
 
 ## 🌐 Socials:
