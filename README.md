@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Backend Development, Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning driven applications <br>🌱 I’m currently learning NLP and Data Science<br>⚡ Fun fact I love playing cricket and I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1Q19yS264VKrJmvK64ODhGA-Fe41Ih62m/view?usp=drive_link)<br>🎓 Pre-final year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering
+🔭 I’m currently working on Backend Development, Data Science, and Machine Learning<br>👯 I’m looking to collaborate on Data Science and Machine Learning applications <br>🌱 I’m currently learning NLP and Data Science<br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1Q19yS264VKrJmvK64ODhGA-Fe41Ih62m/view?usp=drive_link)<br>🎓 Pre-final year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering
 
 
 ## 🌐 Socials:
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Prashin006&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me here
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prashin.parikh108) 
 
   
