@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development, Data Science, and Machine Learning<br>👯 I’m looking to collaborate on Data-Driven applications <br>🌱 I’m currently learning Backend Development and Data Science<br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1ojbSmo5XRs35ab7nmt9qMwYUj17WMVHo/view?usp=sharing)<br>🎓 Final year Computer Science and Engineering (Data Science) student at Dwarkadas J. Sanghvi College of Engineering
+🔭 I’m currently working on Backend Development, Data Science, and Machine Learning<br>👯 I’m looking to collaborate on Data-Driven applications <br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1ojbSmo5XRs35ab7nmt9qMwYUj17WMVHo/view?usp=sharing)<br>🎓 Final year Computer Science and Engineering (Data Science) student at Dwarkadas J. Sanghvi College of Engineering
 
 
 ## 🌐 Socials:
