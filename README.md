@@ -2,6 +2,7 @@
 
 
 # 💫 About Me:
+Since mastering JavaScript and the JavaScript DOM, I have been passionate about web development, culminating in my first project—a Tacos Selling Shop. Now, the robust Python ecosystem and its versatile features have inspired me to transition away from the JavaScript ecosystem, embracing Python's potential for future projects.<br>I am actively seeking a role in Backend Development or Data Science, focusing on relational databases and Python programming. My goal is to join a dynamic startup with a close-knit team where I can immediately contribute and drive impactful results. If you're hiring, I'd love to connect and discuss potential opportunities!
 🔭 I’m currently working on Backend Development, Data Science, and Machine Learning<br>👯 I’m looking to collaborate on Data-Driven applications <br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1ojbSmo5XRs35ab7nmt9qMwYUj17WMVHo/view?usp=sharing)<br>🎓 Final year Computer Science and Engineering (Data Science) student at Dwarkadas J. Sanghvi College of Engineering
 
 
