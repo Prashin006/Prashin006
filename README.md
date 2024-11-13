@@ -2,8 +2,8 @@
 
 
 # 💫 About Me:
-Since mastering JavaScript and the JavaScript DOM, I have been passionate about web development, culminating in my first project—a Tacos Selling Shop.<br>I am actively seeking a role in Full Stack Development or Data Science. I aim to join a company with a close-knit team where I can immediately contribute and drive impactful results. If you're hiring, I'd love to connect and discuss potential opportunities!<br>
-🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Data-Driven applications <br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/1ojbSmo5XRs35ab7nmt9qMwYUj17WMVHo/view?usp=sharing)<br>🎓 Final year Computer Science and Engineering (Data Science) student at Dwarkadas J. Sanghvi College of Engineering
+I am passionate about coding and love building practical solutions and exploring new technologies.<br>I believe in hands-on learning and continuously improving through self-driven projects and challenges.<br>I am actively seeking a role in Software Development. I aim to join a company with a close-knit team where I can immediately contribute and drive impactful results. If you're hiring, I'd love to connect and discuss potential opportunities!<br>
+🔭 I’m currently working on improving my problem-solving skills.<br>👯 I’m looking to collaborate on Data-Driven applications <br>⚡ Fun fact I love playing cricket. I am also an avid nature lover. <br>📃You can find my Resume [here](https://drive.google.com/file/d/121bS9kT0X2znoxkzS64w_ifohnnmik7d/view?usp=sharing)<br>🎓 Final year Computer Science and Engineering (Data Science) student at Mumbai University
 
 
 ## 🌐 Socials:
